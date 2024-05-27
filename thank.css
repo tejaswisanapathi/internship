@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    }
+body
+{
+    font-family: Times new roman;
+    background-color:lavender;
+    margine: 0;
+    padding: 0;
+}
+h1
+{
+    text-align: center;
+    text-color: black;
+    margine: 20px;
+    }
+p{
+    text-align: center;
+    text-color: black;
+    margine: 10px;
+    }
